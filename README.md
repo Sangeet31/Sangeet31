@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sangeet31
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/CSS and JS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me just dm me
 
